@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="leaderboard_menu_icon" transform="translate(35 -170)">
+    <rect id="_" data-name="#" width="24" height="24" transform="translate(-35 170)" fill="#4b4f55" opacity="0"/>
+    <g id="leaderboard" transform="translate(-62.5 171.7)">
+      <path id="Path_10519" data-name="Path 10519" d="M145.5,46.081l.763,4.766a.572.572,0,0,0,.565.482h5.72a.572.572,0,0,0,.565-.482l.763-4.766a.572.572,0,0,0-.886-.563l-1.515,1.03-1.381-1.381a.572.572,0,0,0-.809,0L147.9,46.548l-1.515-1.03A.572.572,0,0,0,145.5,46.081Zm2.15,1.679a.572.572,0,0,0,.726-.069l1.311-1.311,1.311,1.311a.572.572,0,0,0,.726.069l.811-.551-.476,2.976H147.31l-.476-2.976Z" transform="translate(-110.203 -43.284)" fill="#d090ff"/>
+      <circle id="Ellipse_518" data-name="Ellipse 518" cx="0.5" cy="0.5" r="0.5" transform="translate(38.897 0.3)" fill="#d090ff"/>
+      <circle id="Ellipse_519" data-name="Ellipse 519" cx="0.5" cy="0.5" r="0.5" transform="translate(43.095 0.3)" fill="#d090ff"/>
+      <circle id="Ellipse_520" data-name="Ellipse 520" cx="0.5" cy="0.5" r="0.5" transform="translate(34.698 0.3)" fill="#d090ff"/>
+      <path id="Path_10520" data-name="Path 10520" d="M47.9,244.47h-5v-2.9a.586.586,0,0,0-.6-.572H36.7a.586.586,0,0,0-.6.572v1.754h-5a.586.586,0,0,0-.6.572v6.864a.586.586,0,0,0,.6.572H47.9a.586.586,0,0,0,.6-.572v-5.72A.586.586,0,0,0,47.9,244.47Zm-16.2,0h4.4v5.72H31.7Zm5.6-2.326h4.4v8.046H37.3Zm10,8.046H42.9v-4.576h4.4Z" transform="translate(0 -231.033)" fill="#d090ff"/>
+      <path id="Path_10521" data-name="Path 10521" d="M227.144,301h-.572a.572.572,0,1,0,0,1.144v1.716a.572.572,0,0,0,1.144,0v-2.288A.572.572,0,0,0,227.144,301Z" transform="translate(-187.659 -288.973)" fill="#d090ff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="mobile_money_wallet_icon" transform="translate(-30 -386)">
+    <g id="Rectangle_8541" data-name="Rectangle 8541" transform="translate(30 386)" fill="#434343" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="30" height="30" stroke="none"/>
+      <rect x="0.5" y="0.5" width="29" height="29" fill="none"/>
+    </g>
+    <g id="Wallet" transform="translate(22 385)">
+      <path id="Path_21051" data-name="Path 21051" d="M26.553,22.857H19.777a2.133,2.133,0,0,1-2.118-2.143V10.857a1.7,1.7,0,0,1,1.694-1.714h7.2V5.286A1.278,1.278,0,0,0,25.283,4H23.165v.429a1.278,1.278,0,0,1-1.271,1.286H17.659a1.278,1.278,0,0,1-1.271-1.286V4H14.271A1.278,1.278,0,0,0,13,5.286V26.714A1.278,1.278,0,0,0,14.271,28H25.283a1.278,1.278,0,0,0,1.271-1.286Z" transform="translate(0)" fill="#cab5d6"/>
+      <path id="Path_21052" data-name="Path 21052" d="M23.43,4.86h4.3a.43.43,0,0,0,.43-.43V4H23v.43A.43.43,0,0,0,23.43,4.86Z" transform="translate(-5.759)" fill="#cab5d6"/>
+      <path id="Path_21053" data-name="Path 21053" d="M26,18.86a.86.86,0,0,0,.86.86H39.753V18H26.86A.86.86,0,0,0,26,18.86Z" transform="translate(-7.613 -8.001)" fill="#cab5d6"/>
+      <path id="Path_21054" data-name="Path 21054" d="M55.438,32H52.43a.43.43,0,0,0-.43.43v1.719a.43.43,0,0,0,.43.43h3.009Zm-1.719,1.719h-.86v-.86h.86Z" transform="translate(-22.438 -16.004)" fill="#cab5d6"/>
+      <path id="Path_21055" data-name="Path 21055" d="M39.753,30.56H37.6a1.289,1.289,0,0,1-1.289-1.289V27.551A1.289,1.289,0,0,1,37.6,26.262h2.149V23.683H26.86a1.7,1.7,0,0,1-.86-.239v8.4a1.289,1.289,0,0,0,1.289,1.289H39.753Zm-8.166-2.579h.86a1.289,1.289,0,0,1,0,2.579v.86h-.86v-.86A1.289,1.289,0,0,1,30.3,29.27h.86a.43.43,0,0,0,.43.43h.86a.43.43,0,0,0,0-.86h-.86a1.289,1.289,0,0,1,0-2.579V25.4h.86v.86a1.289,1.289,0,0,1,1.289,1.289h-.86a.43.43,0,0,0-.43-.43h-.86a.43.43,0,0,0,0,.86Z" transform="translate(-7.613 -11.127)" fill="#cab5d6"/>
+    </g>
+  </g>
+</svg>

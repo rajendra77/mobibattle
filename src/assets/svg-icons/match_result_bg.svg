@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_8395" data-name="Rectangle 8395" width="375" height="812" transform="translate(0 0.2)" fill="#fff"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.751" gradientTransform="translate(0.045 0.127) scale(0.666 0.666)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.228" stop-color="#fff" stop-opacity="0.988"/>
+      <stop offset="0.368" stop-color="#fff" stop-opacity="0.957"/>
+      <stop offset="0.485" stop-color="#fff" stop-opacity="0.898"/>
+      <stop offset="0.589" stop-color="#fff" stop-opacity="0.82"/>
+      <stop offset="0.685" stop-color="#fff" stop-opacity="0.714"/>
+      <stop offset="0.774" stop-color="#fff" stop-opacity="0.584"/>
+      <stop offset="0.859" stop-color="#fff" stop-opacity="0.435"/>
+      <stop offset="0.937" stop-color="#fff" stop-opacity="0.263"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.102"/>
+    </radialGradient>
+  </defs>
+  <g id="match_result_bg" transform="translate(0 -0.2)" clip-path="url(#clip-path)">
+    <g id="Group_5713" data-name="Group 5713" transform="translate(-98 -0.009)" opacity="0.1">
+      <g id="Group_5712" data-name="Group 5712" style="mix-blend-mode: soft-light;isolation: isolate">
+        <path id="Path_19669" data-name="Path 19669" d="M410,472h26.211l63.8,100.027L695.3,878.129,562.32,1245.7,548.4,1284.209h-36.64l26.38-58.374L695.3,878.129l215,277.95,70.266,90.866v37.264H954.393l-63.833-100.027L695.3,878.129,437.058,1067.383,410,1087.242v52.113l41.01-37.554L695.3,878.129l-258.244-189.3L410,669.016V616.857l41.01,37.551L695.3,878.129l88.554-393.787L786.634,472H757.2l-.3,2.074L695.3,878.129l258.212,189.255,27.056,19.859v52.113L939.562,1101.8,695.3,878.129l258.212-189.3,27.056-19.81V616.857l-41.009,37.551L695.3,878.129,411.456,790.4,410,789.962v-41.89l8.67,3.953L695.3,878.129l132.95-367.612L842.2,472H878.81l-26.38,58.378L695.3,878.129l283.847,87.685,1.422.433v41.893l-8.669-3.955L695.3,878.129l-215.034,277.95L410,1246.945v37.264h26.211l63.8-100.027L695.3,878.129,410,897.65V858.557l285.3,19.572L709.016,472H681.553L695.3,878.129l285.269-19.572V897.65L695.3,878.129l215-278,70.266-90.819V472H954.393L890.561,572.027,695.3,878.129,418.67,1004.185,410,1008.14V966.246l1.456-.433L695.3,878.129l88.554,393.741,2.777,12.339H757.2l-.3-2.024L695.3,878.129,538.141,530.378,511.761,472H548.4l13.918,38.517L695.3,878.129,606.715,1271.87l-2.777,12.339h29.428l.3-2.024L695.3,878.129l157.129,347.706,26.38,58.374H842.2L828.252,1245.7,695.3,878.129,979.149,790.4l1.422-.434v-41.89l-8.669,3.953-276.6,126.1-215.034-278L410,509.31Zm193.938,0h29.428l.3,2.074L695.3,878.129l13.714,406.08H681.553L695.3,878.129,606.715,484.342Z" transform="translate(-410 -472)" fill="url(#radial-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>

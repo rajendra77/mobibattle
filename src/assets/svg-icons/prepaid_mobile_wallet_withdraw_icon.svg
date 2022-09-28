@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="prepaid_mobile_wallet_withdraw_icon" transform="translate(-12 -333)">
+    <rect id="Rectangle_8889" data-name="Rectangle 8889" width="40" height="40" rx="20" transform="translate(12 333)" fill="#c54929"/>
+    <g id="prepaid" transform="translate(21 342)">
+      <path id="Path_40369" data-name="Path 40369" d="M13,58h.646v.646H13Z" transform="translate(-8.129 -38.614)" fill="#fff"/>
+      <path id="Path_40370" data-name="Path 40370" d="M42.291,38.291a.646.646,0,0,1,.646.646h.646a1.29,1.29,0,0,0-.968-1.245V37h-.646v.691a1.288,1.288,0,0,0,.323,2.536.646.646,0,1,1-.646.646H41a1.29,1.29,0,0,0,.968,1.245v.691h.646v-.691a1.288,1.288,0,0,0-.323-2.536.646.646,0,1,1,0-1.291Z" transform="translate(-27.098 -24.392)" fill="#fff"/>
+      <path id="Path_40371" data-name="Path 40371" d="M10.133,28H4.323A.323.323,0,0,0,4,28.323v8.715a.323.323,0,0,0,.323.323h5.81a.323.323,0,0,0,.323-.323V28.323A.323.323,0,0,0,10.133,28ZM9.81,36.715H4.646v-8.07H9.81Z" transform="translate(-2.032 -18.297)" fill="#fff"/>
+      <path id="Path_40372" data-name="Path 40372" d="M20.032,1H7.129a.969.969,0,0,0-.968.968V8.742H1.968A.969.969,0,0,0,1,9.71V20.032A.969.969,0,0,0,1.968,21H8.419a.969.969,0,0,0,.968-.968V10.677H20.032A.969.969,0,0,0,21,9.71V1.968A.969.969,0,0,0,20.032,1Zm-12.9.645h12.9a.323.323,0,0,1,.323.323V2.29H6.806V1.968A.323.323,0,0,1,7.129,1.645Zm13.226,1.29v1.29H6.806V2.935ZM8.742,20.032a.323.323,0,0,1-.323.323H1.968a.323.323,0,0,1-.323-.323V9.71a.323.323,0,0,1,.323-.323H8.419a.323.323,0,0,1,.323.323Zm11.29-10H9.387V9.71a.969.969,0,0,0-.968-.968H6.806V4.871H20.355V9.71A.323.323,0,0,1,20.032,10.032Z" fill="#fff"/>
+      <path id="Path_40373" data-name="Path 40373" d="M24.551,15H21.323a.323.323,0,0,0-.323.323v1.937a.323.323,0,0,0,.323.323h3.228a.323.323,0,0,0,.323-.323V15.323A.323.323,0,0,0,24.551,15Zm-2.259.646v.323h-.646v-.323Zm-.646.968h.968a.323.323,0,0,0,.323-.323v-.646h.323v1.291H21.646Zm2.582.323h-.323V15.646h.323Z" transform="translate(-13.549 -9.484)" fill="#fff"/>
+      <path id="Path_40374" data-name="Path 40374" d="M50.2,14H46.323a.323.323,0,0,0-.323.323V18.2a.323.323,0,0,0,.323.323H50.2a.323.323,0,0,0,.323-.323V14.323A.323.323,0,0,0,50.2,14Zm-3.551.646h1.291v1.291H46.646Zm0,3.228V16.582h1.614a.323.323,0,0,0,.323-.323V14.646h.323v.646h.646v-.646h.323v1.937h-.323v-.646h-.646v.968a.323.323,0,0,0,.323.323h.646v.646Z" transform="translate(-30.487 -8.807)" fill="#fff"/>
+      <path id="Path_40375" data-name="Path 40375" d="M49,17h.646v.646H49Z" transform="translate(-32.516 -10.839)" fill="#fff"/>
+      <path id="Path_40376" data-name="Path 40376" d="M49,23h1.614v.646H49Z" transform="translate(-32.519 -14.903)" fill="#fff"/>
+      <path id="Path_40377" data-name="Path 40377" d="M50,45h.646v.646H50Z" transform="translate(-33.194 -29.807)" fill="#fff"/>
+      <path id="Path_40378" data-name="Path 40378" d="M54,45h.646v.646H54Z" transform="translate(-35.905 -29.807)" fill="#fff"/>
+      <path id="Path_40379" data-name="Path 40379" d="M54,41h.646v.646H54Z" transform="translate(-35.905 -27.097)" fill="#fff"/>
+      <path id="Path_40380" data-name="Path 40380" d="M54,37h.646v.646H54Z" transform="translate(-35.905 -24.387)" fill="#fff"/>
+      <path id="Path_40381" data-name="Path 40381" d="M54,33h.646v.646H54Z" transform="translate(-35.905 -21.678)" fill="#fff"/>
+      <path id="Path_40382" data-name="Path 40382" d="M37,45h.646v.646H37Z" transform="translate(-24.387 -29.807)" fill="#fff"/>
+      <path id="Path_40383" data-name="Path 40383" d="M33,45h.646v.646H33Z" transform="translate(-21.678 -29.807)" fill="#fff"/>
+      <path id="Path_40384" data-name="Path 40384" d="M29,45h.646v.646H29Z" transform="translate(-18.968 -29.807)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

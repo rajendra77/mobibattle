@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <g id="pub_room_id_info_star" transform="translate(-72 -115)">
+    <circle id="Ellipse_735" data-name="Ellipse 735" cx="17" cy="17" r="17" transform="translate(72 115)" fill="#330d46"/>
+    <g id="star" transform="translate(77.213 120.02)">
+      <path id="Path_24169" data-name="Path 24169" d="M21.574,10.385l-4.383,4.259,1.035,6.016a.7.7,0,0,1-1.021.739l-5.419-2.84L6.369,21.4a.7.7,0,0,1-1.021-.739l1.035-6.016L2,10.385a.7.7,0,0,1,.39-1.2l6.057-.877,2.709-5.473a.734.734,0,0,1,1.262,0l2.709,5.473,6.057.877a.7.7,0,0,1,.39,1.2Z" transform="translate(0)" fill="none" stroke="#9b83a7" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

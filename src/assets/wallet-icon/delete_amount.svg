@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="delete_amount" transform="translate(-333 -387)">
+    <g id="Rectangle_8899" data-name="Rectangle 8899" transform="translate(333 387)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="22" height="22" stroke="none"/>
+      <rect x="0.5" y="0.5" width="21" height="21" fill="none"/>
+    </g>
+    <g id="delete_amount-2" data-name="delete_amount" transform="translate(333.999 388)">
+      <path id="Path_8977" data-name="Path 8977" d="M15.658,4.343a8,8,0,1,0,0,11.314,8,8,0,0,0,0-11.314Zm-2.8,7.68a.58.58,0,1,1-.806.834L10,10.806,7.978,12.857a.57.57,0,0,1-.806-.806L9.195,10,7.172,7.977a.571.571,0,0,1,.806-.806L10,9.194l2.023-2.023a.58.58,0,0,1,.834.806L10.806,10Z" transform="translate(0 0)" fill="#9b83a7"/>
+    </g>
+  </g>
+</svg>

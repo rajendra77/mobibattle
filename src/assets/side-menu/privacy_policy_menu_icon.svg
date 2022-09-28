@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="privacy_policy_menu_icon" transform="translate(35 -170)">
+    <rect id="_" data-name="#" width="24" height="24" transform="translate(-35 170)" fill="#4b4f55" opacity="0"/>
+    <g id="padlock" transform="translate(-31 172)">
+      <g id="Group_5309" data-name="Group 5309" transform="translate(0)">
+        <path id="Path_10449" data-name="Path 10449" d="M95.109,18.535V15.9c0-2.7-2.468-4.9-5.509-4.9s-5.509,2.2-5.509,4.9v2.633A2.6,2.6,0,0,0,81.6,20.992v7.539A2.639,2.639,0,0,0,84.375,31h10.45A2.636,2.636,0,0,0,97.6,28.531V20.992A2.6,2.6,0,0,0,95.109,18.535ZM85.962,15.9a3.662,3.662,0,0,1,7.275,0v2.616H85.962Zm9.766,12.629a.86.86,0,0,1-.9.8H84.375a.857.857,0,0,1-.9-.8V20.992a.857.857,0,0,1,.9-.8h10.45a.857.857,0,0,1,.9.8Z" transform="translate(-81.6 -11)" fill="#d090ff"/>
+        <path id="Path_10450" data-name="Path 10450" d="M236.6,349a1,1,0,0,0-1,1v1.97a1,1,0,0,0,2,0V350A1,1,0,0,0,236.6,349Z" transform="translate(-228.602 -336.467)" fill="#d090ff"/>
+      </g>
+    </g>
+  </g>
+</svg>

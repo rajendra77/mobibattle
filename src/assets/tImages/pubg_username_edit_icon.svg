@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="pubg_username_edit_icon" transform="translate(-268 -62)">
+    <g id="Rectangle_9448" data-name="Rectangle 9448" transform="translate(268 62)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="28" height="28" stroke="none"/>
+      <rect x="0.5" y="0.5" width="27" height="27" fill="none"/>
+    </g>
+    <g id="edit" transform="translate(272 66)">
+      <path id="Path_47925" data-name="Path 47925" d="M15.869,92.5a.835.835,0,0,0-.835.835v6.682a.836.836,0,0,1-.835.835H2.506a.836.836,0,0,1-.835-.835V88.322a.836.836,0,0,1,.835-.835H9.187a.835.835,0,0,0,0-1.67H2.506A2.509,2.509,0,0,0,0,88.322v11.693a2.509,2.509,0,0,0,2.506,2.506H14.2a2.509,2.509,0,0,0,2.506-2.506V93.333a.834.834,0,0,0-.835-.835Zm0,0" transform="translate(0 -82.521)" fill="#fff"/>
+      <path id="Path_47926" data-name="Path 47926" d="M182.521,74.87a.422.422,0,0,0-.114.213l-.59,2.953a.417.417,0,0,0,.41.5.4.4,0,0,0,.082-.008l2.952-.59a.416.416,0,0,0,.214-.115l6.608-6.608-2.952-2.952Zm0,0" transform="translate(-174.735 -65.609)" fill="#fff"/>
+      <path id="Path_47927" data-name="Path 47927" d="M395.554,1.112a2.089,2.089,0,0,0-2.952,0l-1.156,1.156L394.4,5.22l1.156-1.156a2.088,2.088,0,0,0,0-2.952Zm0,0" transform="translate(-376.165 -0.501)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

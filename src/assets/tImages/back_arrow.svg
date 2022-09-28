@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="back_arrow" transform="translate(-5 -5)">
+    <rect id="Rectangle_4491" data-name="Rectangle 4491" width="28" height="28" transform="translate(5 5)" fill="#fff" opacity="0"/>
+    <g id="arrow-right" transform="translate(33.161 70.737) rotate(180)">
+      <g id="arrow-1-e_1_" transform="translate(0 41.738)">
+        <path id="Path_20963" data-name="Path 20963" d="M255.354,61.736a1.507,1.507,0,0,1-1.073-2.5l7.555-7.462-7.555-7.462a1.51,1.51,0,0,1,2.137-2.134l.009.009,8.537,8.517a1.505,1.505,0,0,1,.009,2.132l-.009.009-8.537,8.517A1.513,1.513,0,0,1,255.354,61.736Z" transform="translate(-241.267 -41.738)" fill="#fff"/>
+        <path id="Path_20964" data-name="Path 20964" d="M18.75,214.988H1.25a1.538,1.538,0,0,1,0-3.022h17.5a1.538,1.538,0,0,1,0,3.022Z" transform="translate(4.017 -203.519)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

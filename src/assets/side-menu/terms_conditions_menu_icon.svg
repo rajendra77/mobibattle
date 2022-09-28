@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="terms_conditions_menu_icon" transform="translate(35 -170)">
+    <rect id="_" data-name="#" width="24" height="24" transform="translate(-35 170)" fill="#4b4f55" opacity="0"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(-34.92 171)">
+      <path id="Path_10444" data-name="Path 10444" d="M20.46,21H8.943A1.829,1.829,0,0,1,7.08,19.207V2.793A1.829,1.829,0,0,1,8.943,1h5.284a1.968,1.968,0,0,1,1.281.473l6.164,5.333a1.83,1.83,0,0,1,.644,1.387V19.207A1.829,1.829,0,0,1,20.46,21ZM8.943,2.333a.469.469,0,0,0-.478.46V19.207a.469.469,0,0,0,.478.46H20.46a.469.469,0,0,0,.478-.46V8.16a.512.512,0,0,0-.18-.387L14.594,2.44a.555.555,0,0,0-.367-.107Z" transform="translate(-1.396 0)" fill="#d090ff"/>
+      <path id="Path_10445" data-name="Path 10445" d="M24.389,8.792H18.535A1.455,1.455,0,0,1,17.08,7.337V2.56h1.329V7.337a.126.126,0,0,0,.126.126h5.854Z" transform="translate(-4.133 -0.523)" fill="#d090ff"/>
+      <rect id="Rectangle_7485" data-name="Rectangle 7485" width="6.644" height="1.329" rx="0.664" transform="translate(10.298 16.337)" fill="#d090ff"/>
+      <rect id="Rectangle_7486" data-name="Rectangle 7486" width="2.658" height="1.329" rx="0.664" transform="translate(10.19 13.463)" fill="#d090ff"/>
+      <path id="Path_10446" data-name="Path 10446" d="M4.574,19.576A1.678,1.678,0,0,1,2.92,17.9V7.019a1.672,1.672,0,0,1,.611-1.293,1.655,1.655,0,0,1,1.383-.342l1.429.24L6.123,6.959,4.681,6.7a.351.351,0,0,0-.306.06.334.334,0,0,0-.126.26V17.9a.339.339,0,0,0,.405.327l1.5-.2.173,1.335-1.455.194a1.4,1.4,0,0,1-.3.02Z" transform="translate(0 -1.459)" fill="#d090ff"/>
+    </g>
+  </g>
+</svg>

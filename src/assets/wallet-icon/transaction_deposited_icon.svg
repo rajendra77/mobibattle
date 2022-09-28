@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="transaction_deposited_icon" transform="translate(-17 -651)">
+    <g id="Rectangle_8496" data-name="Rectangle 8496" transform="translate(17 651)" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="30" height="30" stroke="none"/>
+      <rect x="0.5" y="0.5" width="29" height="29" fill="none"/>
+    </g>
+    <g id="upload" transform="translate(20 653)">
+      <path id="Path_36347" data-name="Path 36347" d="M20,24H17a1,1,0,0,1-1-1V18H13.5a.5.5,0,0,1-.354-.854l5-5a.5.5,0,0,1,.707,0l5,5A.5.5,0,0,1,23.5,18H21v5A1,1,0,0,1,20,24Zm-5.293-7H16.5a.5.5,0,0,1,.5.5V23h3V17.5a.5.5,0,0,1,.5-.5h1.793L18.5,13.207Z" fill="#fff" stroke="#fff" stroke-width="0.5"/>
+      <path id="Path_36348" data-name="Path 36348" d="M13.5,21H2.5A2.5,2.5,0,0,1,0,18.5V5.5A2.5,2.5,0,0,1,2.5,3h19A2.5,2.5,0,0,1,24,5.5v9a.5.5,0,0,1-1,0v-9A1.5,1.5,0,0,0,21.5,4H2.5A1.5,1.5,0,0,0,1,5.5v13A1.5,1.5,0,0,0,2.5,20h11a.5.5,0,0,1,0,1Z" fill="#fff" stroke="#fff" stroke-width="0.5"/>
+      <path id="Path_36349" data-name="Path 36349" d="M7.5,16H.5a.5.5,0,0,1-.5-.5v-7A.5.5,0,0,1,.5,8h7A2.5,2.5,0,0,1,10,10.5v3A2.5,2.5,0,0,1,7.5,16ZM1,15H7.5A1.5,1.5,0,0,0,9,13.5v-3A1.5,1.5,0,0,0,7.5,9H1Z" fill="#fff" stroke="#fff" stroke-width="0.5"/>
+      <path id="Path_36350" data-name="Path 36350" d="M5,14a2,2,0,1,1,2-2A2,2,0,0,1,5,14Zm0-3a1,1,0,1,0,1,1A1,1,0,0,0,5,11Z" fill="#fff" stroke="#fff" stroke-width="0.5"/>
+    </g>
+  </g>
+</svg>

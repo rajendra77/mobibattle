@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <g id="user_live_icon" transform="translate(-147.85 -698.85)">
+    <rect id="Rectangle_8286" data-name="Rectangle 8286" width="18" height="18" transform="translate(147.85 698.85)" opacity="0"/>
+    <g id="user_yellow_icon" transform="translate(152.85 703.85)">
+      <g id="Group_3181" data-name="Group 3181">
+        <g id="Group_3180" data-name="Group 3180">
+          <path id="Path_8243" data-name="Path 8243" d="M87.061,88.789a1.728,1.728,0,1,0-1.728-1.728A1.724,1.724,0,0,0,87.061,88.789Z" transform="translate(-83.012 -85.333)" fill="#fff"/>
+          <path id="Path_8244" data-name="Path 8244" d="M4,256c-1.334,0-4,.674-4,2.016v1.44H8v-1.44C8,256.674,5.334,256,4,256Z" transform="translate(0 -251.456)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <path id="Online_Status" data-name="Online Status" d="M1.44,8.64a7.2,7.2,0,1,1,14.4,0q0,.332-.029.655a.72.72,0,1,0,1.434.129q.035-.388.035-.785a8.633,8.633,0,1,0-5.5,8.051.72.72,0,0,0-.524-1.341A7.2,7.2,0,0,1,1.44,8.64Z" transform="translate(147.85 699.25)" fill="#fff" fill-rule="evenodd"/>
+    <circle id="Ellipse_669" data-name="Ellipse 669" cx="3" cy="3" r="3" transform="translate(159.85 709.85)" fill="#00dd1c"/>
+  </g>
+</svg>

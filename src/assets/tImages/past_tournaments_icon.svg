@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f99447"/>
+      <stop offset="0.472" stop-color="#dd3023"/>
+      <stop offset="1" stop-color="#c09800"/>
+    </linearGradient>
+  </defs>
+  <g id="past_tournaments_icon" transform="translate(34.133 -170.867)">
+    <rect id="_" data-name="#" width="28" height="28" rx="14" transform="translate(-34.133 170.867)" fill="url(#linear-gradient)"/>
+    <g id="Group_10277" data-name="Group 10277" transform="translate(-27.013 176.84)">
+      <path id="Path_47947" data-name="Path 47947" d="M149.268,130.676a.321.321,0,0,0-.079.02.458.458,0,0,0-.085-.02h-.656v-2.007a.663.663,0,0,0-.655-.669h-9.829a1.977,1.977,0,0,0-1.933,1.673.469.469,0,0,0-.032.167v12.374a1.82,1.82,0,0,0,1.8,1.84h11.467a.5.5,0,0,0,.491-.5V131.178A.5.5,0,0,0,149.268,130.676Zm-6.389,11.037a4.348,4.348,0,1,1,4.259-4.347A4.312,4.312,0,0,1,142.88,141.713Zm4.259-11.037h-9.173a.669.669,0,0,1,0-1.338h9.173Zm0,0" transform="translate(-136 -128)" fill="#fff"/>
+      <path id="Path_47948" data-name="Path 47948" d="M239.009,239a.662.662,0,0,1-.471-.195l-1-1a.665.665,0,0,1-.195-.471v-2a.667.667,0,1,1,1.333,0v1.723l.8.8a.665.665,0,0,1-.473,1.136Zm0,0" transform="translate(-231.139 -227.973)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

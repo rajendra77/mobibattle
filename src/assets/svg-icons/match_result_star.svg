@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="316.662" height="161.553" viewBox="0 0 316.662 161.553">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.433" gradientTransform="translate(-0.205) scale(1.41 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffff70"/>
+      <stop offset="1" stop-color="#ff7e3c"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="0.433" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-3" cx="0.5" cy="0.5" r="0.524" gradientTransform="translate(-0.253 0.175) scale(1.507 0.755)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-4" cx="0.5" cy="0.5" r="0.433" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-5" cx="0.5" cy="0.5" r="0.433" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-6" cx="0.5" cy="0.5" r="0.597" gradientTransform="translate(-0.161 0.204) scale(1.321 0.662)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-7" cx="0.5" cy="0.5" r="0.433" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-9" cx="0.5" cy="0.5" r="0.433" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-10" cx="0.5" cy="0.5" r="0.433" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-11" cx="0.5" cy="0.5" r="0.433" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-12" cx="0.5" cy="0.5" r="0.433" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-14" cx="0.5" cy="0.5" r="0.433" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-15" cx="0.5" cy="0.5" r="0.506" gradientTransform="translate(-0.479 0.109) scale(1.561 0.782)" xlink:href="#radial-gradient"/>
+  </defs>
+  <g id="match_result_star" transform="translate(-54.731 -125.191)">
+    <g id="Group_5715" data-name="Group 5715" transform="translate(69.307 149.049)">
+      <g id="Group_5714" data-name="Group 5714" transform="translate(0 0)">
+        <path id="Path_19670" data-name="Path 19670" d="M106.148,170.646q-4.769-1-5.214-7.357-.449,6.356-5.213,7.357,4.769.983,5.213,7.348.451-6.356,5.214-7.348Z" transform="translate(-95.722 -163.289)" fill-rule="evenodd" fill="url(#radial-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_5717" data-name="Group 5717" transform="translate(85.306 148.712)">
+      <g id="Group_5716" data-name="Group 5716" transform="translate(0 0)">
+        <path id="Path_19671" data-name="Path 19671" d="M151.38,169.866q-4.879-1.018-5.333-7.525-.46,6.5-5.332,7.525,4.878,1.007,5.332,7.517.46-6.5,5.333-7.517Z" transform="translate(-140.715 -162.341)" fill-rule="evenodd" fill="url(#radial-gradient-2)"/>
+      </g>
+    </g>
+    <g id="Group_5719" data-name="Group 5719" transform="translate(65.397 168.024)">
+      <g id="Group_5718" data-name="Group 5718" transform="translate(0)">
+        <path id="Path_19672" data-name="Path 19672" d="M95.392,224.692q-4.879-1.089-5.333-8.04-.46,6.948-5.333,8.04,4.878,1.076,5.333,8.031.459-6.947,5.333-8.031Z" transform="translate(-84.726 -216.652)" fill-rule="evenodd" fill="url(#radial-gradient-3)"/>
+      </g>
+    </g>
+    <g id="Group_5721" data-name="Group 5721" transform="translate(339.48 262.558)">
+      <g id="Group_5720" data-name="Group 5720">
+        <path id="Path_19673" data-name="Path 19673" d="M866.186,490.034q-4.877-1.02-5.332-7.526-.46,6.5-5.333,7.526,4.879,1.006,5.333,7.516.458-6.5,5.332-7.516Z" transform="translate(-855.52 -482.508)" fill-rule="evenodd" fill="url(#radial-gradient-4)"/>
+      </g>
+    </g>
+    <g id="Group_5723" data-name="Group 5723" transform="translate(360.726 232.785)">
+      <g id="Group_5722" data-name="Group 5722">
+        <path id="Path_19674" data-name="Path 19674" d="M925.938,406.3q-4.88-1.019-5.334-7.525-.458,6.5-5.332,7.525,4.88,1,5.332,7.516.461-6.5,5.334-7.516Z" transform="translate(-915.272 -398.777)" fill-rule="evenodd" fill="url(#radial-gradient-5)"/>
+      </g>
+    </g>
+    <g id="Group_5725" data-name="Group 5725" transform="translate(357.646 255.987)">
+      <g id="Group_5724" data-name="Group 5724">
+        <path id="Path_19675" data-name="Path 19675" d="M917.276,471.078q-4.879-.954-5.334-7.051-.458,6.092-5.332,7.051,4.881.943,5.332,7.042.461-6.09,5.334-7.042Z" transform="translate(-906.61 -464.027)" fill-rule="evenodd" fill="url(#radial-gradient-6)"/>
+      </g>
+    </g>
+    <g id="Group_5727" data-name="Group 5727" transform="translate(328.814 141.528)">
+      <g id="Group_5726" data-name="Group 5726" transform="translate(0 0)">
+        <path id="Path_19676" data-name="Path 19676" d="M836.191,149.664q-4.878-1.019-5.333-7.525-.46,6.5-5.333,7.525,4.879,1.008,5.333,7.517.46-6.5,5.333-7.517Z" transform="translate(-825.525 -142.139)" fill-rule="evenodd" fill="url(#radial-gradient-7)"/>
+      </g>
+    </g>
+    <g id="Group_5729" data-name="Group 5729" transform="translate(342.5 165.23)">
+      <g id="Group_5728" data-name="Group 5728" transform="translate(0 0)">
+        <path id="Path_19677" data-name="Path 19677" d="M874.681,216.32q-4.88-1.017-5.333-7.525-.46,6.5-5.333,7.525,4.879,1.006,5.333,7.517.461-6.5,5.333-7.517Z" transform="translate(-864.015 -208.795)" fill-rule="evenodd" fill="url(#radial-gradient-7)"/>
+      </g>
+    </g>
+    <g id="Group_5731" data-name="Group 5731" transform="translate(54.731 229.887)">
+      <g id="Group_5730" data-name="Group 5730" transform="translate(0)">
+        <path id="Path_19678" data-name="Path 19678" d="M65.4,398.151q-4.878-1.019-5.332-7.524-.46,6.5-5.333,7.524,4.88,1.007,5.333,7.516.459-6.5,5.332-7.516Z" transform="translate(-54.731 -390.627)" fill-rule="evenodd" fill="url(#radial-gradient-9)"/>
+      </g>
+    </g>
+    <g id="Group_5733" data-name="Group 5733" transform="translate(79.972 262.228)">
+      <g id="Group_5732" data-name="Group 5732">
+        <path id="Path_19679" data-name="Path 19679" d="M136.382,489.1q-4.879-1.02-5.333-7.525-.46,6.5-5.333,7.525,4.88,1.005,5.333,7.518.46-6.5,5.333-7.518Z" transform="translate(-125.716 -481.58)" fill-rule="evenodd" fill="url(#radial-gradient-10)"/>
+      </g>
+    </g>
+    <g id="Group_5735" data-name="Group 5735" transform="translate(177.624 125.191)">
+      <g id="Group_5734" data-name="Group 5734" transform="translate(0 0)">
+        <path id="Path_19680" data-name="Path 19680" d="M411,148.717q-4.879-1.019-5.332-7.526-.46,6.5-5.332,7.526,4.878,1.006,5.332,7.516.458-6.5,5.332-7.516Z" transform="translate(-400.34 -141.191)" fill-rule="evenodd" fill="url(#radial-gradient-11)"/>
+      </g>
+    </g>
+    <g id="Group_5737" data-name="Group 5737" transform="translate(166.034 274.771)">
+      <g id="Group_5736" data-name="Group 5736">
+        <path id="Path_19681" data-name="Path 19681" d="M376.235,494.722q-3.882-.81-4.244-5.99-.366,5.175-4.245,5.99,3.882.8,4.245,5.982.364-5.174,4.244-5.982Z" transform="translate(-367.746 -488.732)" fill-rule="evenodd" fill="url(#radial-gradient-12)"/>
+      </g>
+    </g>
+    <g id="Group_5739" data-name="Group 5739" transform="translate(241.82 274.771)">
+      <g id="Group_5738" data-name="Group 5738" transform="translate(0)">
+        <path id="Path_19682" data-name="Path 19682" d="M589.364,494.722q-3.881-.81-4.244-5.99-.366,5.175-4.245,5.99,3.882.8,4.245,5.982.365-5.174,4.244-5.982Z" transform="translate(-580.875 -488.732)" fill-rule="evenodd" fill="url(#radial-gradient-12)"/>
+      </g>
+    </g>
+    <g id="Group_5741" data-name="Group 5741" transform="translate(233.17 125.527)">
+      <g id="Group_5740" data-name="Group 5740" transform="translate(0 0)">
+        <path id="Path_19683" data-name="Path 19683" d="M567.213,149.663q-4.879-1.018-5.333-7.526-.46,6.5-5.333,7.526,4.879,1.006,5.333,7.517.459-6.5,5.333-7.517Z" transform="translate(-556.548 -142.137)" fill-rule="evenodd" fill="url(#radial-gradient-14)"/>
+      </g>
+    </g>
+    <g id="Group_5742" data-name="Group 5742" transform="translate(307.773 145.048)">
+      <path id="Path_19684" data-name="Path 19684" d="M777.463,160.711q-5.082-1.174-5.555-8.674-.476,7.494-5.554,8.674,5.083,1.16,5.554,8.664.48-7.494,5.555-8.664Z" transform="translate(-766.354 -152.037)" fill-rule="evenodd" fill="url(#radial-gradient-15)"/>
+    </g>
+  </g>
+</svg>

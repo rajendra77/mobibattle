@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <g id="transaction_history-clock_white" transform="translate(-226 -315)">
+    <circle id="Ellipse_599" data-name="Ellipse 599" cx="13" cy="13" r="13" transform="translate(226 315)" fill="#fff"/>
+    <path id="clock" d="M11.638,0A11.638,11.638,0,1,0,23.276,11.638,11.651,11.651,0,0,0,11.638,0Zm5.535,17.658a.969.969,0,0,1-1.371,0l-4.849-4.849a.965.965,0,0,1-.284-.686v-6.3a.97.97,0,0,1,1.94,0v5.9l4.565,4.565a.969.969,0,0,1,0,1.371Zm0,0" transform="translate(227.362 316.362)" fill="#26d07c"/>
+  </g>
+</svg>

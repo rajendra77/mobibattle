@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="subscription_member_arrow" transform="translate(-346.667 -803.667)">
+    <g id="Rectangle_7756" data-name="Rectangle 7756" transform="translate(346.667 803.667)" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="28" height="28" stroke="none"/>
+      <rect x="0.5" y="0.5" width="27" height="27" fill="none"/>
+    </g>
+    <g id="layer1" transform="translate(357.25 810.833)">
+      <path id="path9429" d="M2.981,291.965a.956.956,0,0,0-.9.712A1.209,1.209,0,0,0,2.36,293.9l5.767,5.733-5.767,5.73a1.181,1.181,0,0,0-.372,1.056,1.06,1.06,0,0,0,.64.866.853.853,0,0,0,.956-.266l6.6-6.555a1.212,1.212,0,0,0,0-1.664l-6.6-6.561a.875.875,0,0,0-.6-.276Z" transform="translate(-1.976 -291.965)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

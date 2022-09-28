@@ -1,0 +1,57 @@
+[   
+    
+    {
+        "name": "India",
+        "dial_code": "+91",
+        "code": "IN",
+        "icon": "https://res.mobibattle.co/Demo/flag/in.svg"
+    },
+    {
+        "name": "Congo",
+        "dial_code": "+243",
+        "code": "CD",
+        "icon": "https://res.mobibattle.co/Demo/flag/cd.svg"
+    },
+    {
+        "name": "Bangladesh",
+        "dial_code": "+880",
+        "code": "BD",
+        "icon": "https://res.mobibattle.co/Demo/flag/bd.svg"
+    },
+    {
+        "name": "Ghana",
+        "dial_code": "+233",
+        "code": "GH",
+        "icon": "https://res.mobibattle.co/Demo/flag/gh.svg"
+    },
+    {
+        "name": "Greece",
+        "dial_code": "+30",
+        "code": "GR",
+        "icon": "https://res.mobibattle.co/Demo/flag/gr.svg"
+    },
+    {
+        "name": "Afghanistan",
+        "dial_code": "+93",
+        "code": "AF",
+        "icon": "https://res.mobibattle.co/Demo/flag/af.svg"
+    },
+    {
+        "name": "Mongolia",
+        "dial_code": "+976",
+        "code": "MN",
+        "icon": "https://res.mobibattle.co/Demo/flag/mn.svg"
+    },
+    {
+        "name": "Morocco",
+        "dial_code": "+212",
+        "code": "MA",
+        "icon": "https://res.mobibattle.co/Demo/flag/ma.svg"
+    },
+    {
+        "name": "Tanzania",
+        "dial_code": "+255",
+        "code": "TZ",
+        "icon": "https://res.mobibattle.co/Demo/flag/tz.svg"
+    }
+]

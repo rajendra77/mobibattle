@@ -1,0 +1,77 @@
+{
+  "name": "mobibattelweb",
+  "homepage": ".",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@craco/craco": "^6.1.1",
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "@ideasio/add-to-homescreen-react": "^1.0.7",
+    "@lmkhwana/consoletodiv": "0.0.9",
+    "@tailwindcss/aspect-ratio": "^0.2.0",
+    "axios": "^0.27.2",
+    "branch-sdk": "^2.58.3",
+    "classnames": "^2.3.1",
+    "date-fns": "^2.29.2",
+    "firebase": "^8.10.0",
+    "import-scripts": "^1.0.0",
+    "js-base64": "^3.6.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "node-sass": "^6.0.1",
+    "react": "^17.0.1",
+    "react-content-loader": "^6.0.3",
+    "react-custom-events": "^1.0.2",
+    "react-dom": "^17.0.1",
+    "react-ga": "^3.3.0",
+    "react-global-configuration": "^1.4.1",
+    "react-loading": "^2.0.3",
+    "react-multi-carousel": "^2.6.1",
+    "react-onesignal": "^2.0.2",
+    "react-otp-input": "^2.4.0",
+    "react-range-progress": "^4.0.3",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.1",
+    "react-slick": "^0.28.1",
+    "react-toastify": "^8.1.0",
+    "reactjs-localstorage": "^1.0.1",
+    "slick-carousel": "^1.8.1",
+    "socket.io-client": "^4.0.0",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "REACT_APP_ENVIRONMENT=development craco start",
+    "build-dev": "REACT_APP_ENVIRONMENT=development GENERATE_SOURCEMAP=true craco build",
+    "build": "REACT_APP_ENVIRONMENT=production GENERATE_SOURCEMAP=false craco build",
+    "test": "craco test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss7-compat": "^2.2.7",
+    "autoprefixer": "^9.8.6",
+    "eslint": "^7.28.0",
+    "eslint-plugin-react": "^7.24.0",
+    "postcss": "^7.0.35",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.1.0"
+  }
+}

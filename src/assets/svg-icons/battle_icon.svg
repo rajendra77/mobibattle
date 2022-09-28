@@ -1,0 +1,27 @@
+<svg id="battle_icon" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Group_5035" data-name="Group 5035" transform="translate(7.006 27.885)">
+    <g id="Group_5034" data-name="Group 5034">
+      <path id="Path_17217" data-name="Path 17217" d="M87.458,291.6l-7.179-6.051-1.488,1.765a5.8,5.8,0,0,0-7.054.914l12.43,12.43a5.853,5.853,0,0,0,.915-7.055Z" transform="translate(-71.737 -285.546)" fill="#fff"/>
+    </g>
+  </g>
+  <g id="Group_5037" data-name="Group 5037">
+    <g id="Group_5036" data-name="Group 5036">
+      <path id="Path_17218" data-name="Path 17218" d="M38.85,28.852a5.813,5.813,0,0,0-2.9.794L10.928,0H0V10.928L29.646,35.947a5.853,5.853,0,0,0,.918,7.047l12.43-12.43A5.82,5.82,0,0,0,38.85,28.852Zm-23.173-11.1L5.223,7.294,7.294,5.223,17.749,15.677Z" fill="#fff"/>
+    </g>
+  </g>
+  <g id="Group_5039" data-name="Group 5039" transform="translate(36.779 36.779)">
+    <g id="Group_5038" data-name="Group 5038">
+      <path id="Path_17219" data-name="Path 17219" d="M385.191,381.049l-4.431-4.432-4.144,4.144,4.432,4.43v4.647h8.789v-8.789Z" transform="translate(-376.617 -376.617)" fill="#fff"/>
+    </g>
+  </g>
+  <g id="Group_5041" data-name="Group 5041" transform="translate(0 36.779)">
+    <g id="Group_5040" data-name="Group 5040">
+      <path id="Path_17220" data-name="Path 17220" d="M9.077,376.617l-4.43,4.432H0v8.789H8.789v-4.647l4.432-4.431Z" transform="translate(0 -376.617)" fill="#fff"/>
+    </g>
+  </g>
+  <g id="Group_5043" data-name="Group 5043" transform="translate(26.916)">
+    <g id="Group_5042" data-name="Group 5042">
+      <path id="Path_17221" data-name="Path 17221" d="M287.766,0l-12.15,14.4,7.889,9.36,15.2-12.822V0Zm-4.742,17.749-2.071-2.071L291.406,5.223l2.071,2.071Z" transform="translate(-275.616)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

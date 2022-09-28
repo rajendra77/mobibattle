@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="rupee-symbol_white" transform="translate(-0.001)">
+    <circle id="Ellipse_840" data-name="Ellipse 840" cx="8" cy="8" r="8" transform="translate(0.001)" fill="#fff"/>
+    <path id="Path_47858" data-name="Path 47858" d="M20.768,14.224h-.361a2.376,2.376,0,0,0-.306-.595h.667a.5.5,0,0,0,0-1.005H18.213l-.055,0H16.83a.5.5,0,0,0,0,1.005h1.329a1.373,1.373,0,0,1,1.133.6H16.85a.5.5,0,0,0,0,1.005h2.662a1.375,1.375,0,0,1-1.353,1.15H16.83a.5.5,0,0,0-.364.848l2.717,2.864a.5.5,0,1,0,.729-.691L18,17.383h.16a2.384,2.384,0,0,0,2.37-2.155h.239a.5.5,0,0,0,0-1.005Z" transform="translate(-10.895 -8.433)"/>
+  </g>
+</svg>

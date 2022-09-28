@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <g id="account_game_history_icon" transform="translate(-14 -288)">
+    <rect id="Rectangle_8475" data-name="Rectangle 8475" width="26" height="26" transform="translate(14 288)" fill="#fff" opacity="0"/>
+    <g id="XMLID_91_" transform="translate(-14 291)">
+      <g id="XMLID_252_" transform="translate(35.351 10.813)">
+        <g id="XMLID_144_" transform="translate(8.867)">
+          <path id="XMLID_963_" d="M309.748,256.184a.693.693,0,0,1-.693-.693v-.3a.693.693,0,0,1,1.386,0v.3A.693.693,0,0,1,309.748,256.184Z" transform="translate(-309.055 -254.498)" fill="#ad9eb3"/>
+        </g>
+        <g id="XMLID_349_" transform="translate(0 1.426)">
+          <g id="XMLID_348_">
+            <g id="XMLID_250_">
+              <path id="XMLID_960_" d="M110.791,288.81h-5.732a.693.693,0,1,1,0-1.386h5.732a.693.693,0,1,1,0,1.386Z" transform="translate(-104.366 -287.424)" fill="#ad9eb3"/>
+            </g>
+            <g id="XMLID_249_" transform="translate(0 3.242)">
+              <path id="XMLID_958_" d="M110.791,363.66h-5.732a.693.693,0,1,1,0-1.386h5.732a.693.693,0,1,1,0,1.386Z" transform="translate(-104.366 -362.274)" fill="#ad9eb3"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="XMLID_234_" transform="translate(32 0)">
+        <path id="XMLID_942_" d="M35.224,9.811a.7.7,0,0,0,.713.684h5.9a.715.715,0,0,0,.64-.385,5.65,5.65,0,0,0,2.053.383A5.37,5.37,0,0,0,50,5.247,5.37,5.37,0,0,0,44.526,0,5.514,5.514,0,0,0,39.7,2.778H33.337A1.312,1.312,0,0,0,32,4.06V18.718A1.312,1.312,0,0,0,33.337,20h11.1a1.312,1.312,0,0,0,1.337-1.282V13.892a.713.713,0,0,0-1.426,0v4.741H33.426V4.145h5.749A5.057,5.057,0,0,0,39.1,5.928H35.937a.684.684,0,1,0,0,1.368h3.55a5.281,5.281,0,0,0,1.358,1.831H35.937a.7.7,0,0,0-.713.684Zm5.254-4.564a4.052,4.052,0,0,1,8.1,0,4.052,4.052,0,0,1-8.1,0Z" transform="translate(-32 0)" fill="#ad9eb3"/>
+        <g id="XMLID_637_" transform="translate(11.878 1.764)">
+          <path id="XMLID_949_" d="M299.335,45.716a.69.69,0,0,1-.311-.074l-1.5-.754a.693.693,0,0,1-.382-.619V41.408a.693.693,0,1,1,1.386,0v2.434l1.116.562a.7.7,0,0,1-.312,1.312Z" transform="translate(-297.145 -40.715)" fill="#ad9eb3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

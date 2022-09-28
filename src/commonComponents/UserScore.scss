@@ -1,0 +1,41 @@
+.blink {
+  -webkit-animation: blink 1s step-end infinite;
+  animation: blink 1s step-end infinite;
+}
+
+@keyframes blink {
+  0% {
+    background-color: red;
+  }
+  50% {
+    background-color: white;
+  }
+}
+
+.blink-text {
+  -webkit-animation: blinkText 1s step-end infinite;
+  animation: blinkText 1s step-end infinite;
+}
+
+@keyframes blinkText {
+  0% {
+    color: white;
+  }
+  50% {
+    color: red;
+  }
+}
+
+.blink-border {
+  -webkit-animation: blinkBorder 1s step-end infinite;
+  animation: blinkBorder 1s step-end infinite;
+}
+
+@keyframes blinkBorder {
+  0% {
+    border: red solid 2px;
+  }
+  50% {
+    border: white solid 2px;
+  }
+}

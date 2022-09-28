@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <g id="entry_fees_icon" transform="translate(-263 -1208)">
+    <g id="Rectangle_8565" data-name="Rectangle 8565" transform="translate(263 1208)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="14" height="14" stroke="none"/>
+      <rect x="0.5" y="0.5" width="13" height="13" fill="none"/>
+    </g>
+    <g id="layer2" transform="translate(264.735 1209.735)">
+      <circle id="Ellipse_613" data-name="Ellipse 613" cx="5" cy="5" r="5" transform="translate(0.265 0.265)" fill="#fff"/>
+      <path id="path824" d="M5.26,2.6a.333.333,0,0,0-.327.337v.281a1.089,1.089,0,0,0-1,1.048,1.192,1.192,0,0,0,.44.95,2.494,2.494,0,0,0,.787.367,2.186,2.186,0,0,1,.589.258.436.436,0,0,1,.182.426c0,.556-1.331.556-1.331,0a.333.333,0,1,0-.667,0,1.091,1.091,0,0,0,1,1.049v.279a.333.333,0,1,0,.667,0V7.315a1.091,1.091,0,0,0,1-1.049,1.192,1.192,0,0,0-.441-.95,2.5,2.5,0,0,0-.787-.367,2.188,2.188,0,0,1-.589-.258A.436.436,0,0,1,4.6,4.266c0-.556,1.331-.556,1.331,0a.334.334,0,1,0,.667,0,1.091,1.091,0,0,0-1-1.048V2.937A.333.333,0,0,0,5.26,2.6Z" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>

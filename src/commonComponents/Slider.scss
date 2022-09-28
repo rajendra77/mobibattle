@@ -1,0 +1,52 @@
+.hero {
+  justify-content: flex-start;
+}
+.pb-100 {
+  padding-bottom: 100px;
+}
+
+.dot-outer{
+  background-color: none;
+  width: 35px !important;
+  height: 20px !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px !important;
+}
+
+.dot {
+  background-color: #9877a7;
+  border-color: #9877a7 !important;
+  border-radius: 1rem !important;
+  width: 35px !important;
+  height: 4px !important;
+}
+
+.slick-dots {
+  bottom: 0 !important;
+}
+
+.slick-dots li {
+  width: 35px !important;
+}
+
+.slick-active .dot {
+  background: white !important;
+  border-color: white !important;
+}
+
+.slick-slider {
+  flex-grow: 1 !important;
+  padding-top: 1rem !important;
+  height: 0;
+}
+
+.slick-list,
+.slick-track {
+  height: 100%;
+}
+
+.slick-slide > div {
+  height: 100% !important;
+}

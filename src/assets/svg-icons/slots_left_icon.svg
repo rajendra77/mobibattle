@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <g id="slots_left_icon" transform="translate(-263 -1190)">
+    <g id="Rectangle_8564" data-name="Rectangle 8564" transform="translate(263 1190)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="14" height="14" stroke="none"/>
+      <rect x="0.5" y="0.5" width="13" height="13" fill="none"/>
+    </g>
+    <g id="tick_1_" data-name="tick (1)" transform="translate(265 1192)">
+      <path id="Path_16474" data-name="Path 16474" d="M5,0a5,5,0,1,0,5,5A5.006,5.006,0,0,0,5,0Z" fill="#fff"/>
+      <path id="Path_16475" data-name="Path 16475" d="M97.953,124.908l-2.581,2.459-1.23-1.27a.4.4,0,1,0-.581.554l1.514,1.554a.412.412,0,0,0,.284.122.465.465,0,0,0,.284-.108l2.878-2.73a.392.392,0,0,0,.014-.568A.421.421,0,0,0,97.953,124.908Z" transform="translate(-91.034 -121.57)" fill="#3f1853"/>
+    </g>
+  </g>
+</svg>
